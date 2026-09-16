@@ -74,3 +74,33 @@
     max-width: 650px;
     margin-bottom: 32px;
 }
+
+.services-section {
+    background-color: #1c1917;
+    padding: 80px 20px;
+}
+
+.services-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    gap: 24px;
+    justify-content: center;
+}
+
+.service-card {
+    background-color: #292524;
+    padding: 32px;
+    flex: 1;
+    border-radius: 12px;
+}
+
+.service-title {
+    color: #fafaf9;
+    margin-bottom: 16px;
+}
+
+.service-text {
+    color: #d6d3d1;
+    line-height: 1.6;
+}
