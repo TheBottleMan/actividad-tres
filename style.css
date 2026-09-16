@@ -75,6 +75,22 @@
     margin-bottom: 32px;
 }
 
+.hero-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 14px 28px;
+    background-color: #f97316;
+    color: #fafaf9;
+    text-decoration: none;
+    font-weight: 700;
+    border-radius: 8px;
+}
+
+.hero-button:hover {
+    opacity: 0.85;
+}
+
 .services-section {
     background-color: #1c1917;
     padding: 80px 20px;
@@ -104,3 +120,4 @@
     color: #d6d3d1;
     line-height: 1.6;
 }
+
