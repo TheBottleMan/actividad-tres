@@ -41,7 +41,9 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #1c1917;
+    background-image: url('images/hero.jpg');
+    background-size: cover;
+    background-position: center;
 }
 
 .hero-content {
