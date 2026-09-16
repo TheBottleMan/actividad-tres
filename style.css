@@ -95,6 +95,28 @@
   opacity: 0.85;
 }
 
+.hero-title {
+    color: #fafaf9;
+    font-size: 52px;
+    line-height: 1.1;
+    margin: 0 0 20px 0;
+}
+
+.hero-subtitle {
+    color: #a8a29e;
+    font-size: 20px;
+    line-height: 1.6;
+    max-width: 650px;
+    margin: 0 0 32px 0;
+}
+
+.service-card {
+    background-color: #292524;
+    padding: 32px;
+    border-radius: 12px;
+    min-height: 180px;
+}
+
 .services-section {
   background-color: #1c1917;
   padding: 80px 20px;
