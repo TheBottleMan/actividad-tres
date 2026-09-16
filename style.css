@@ -1,0 +1,36 @@
+.header-section {
+  background-color: #292524;
+  padding: 20px;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.brand-container {
+  display: flex;
+  align-items: center;
+}
+
+.brand-link {
+  color: #fafaf9;
+  text-decoration: none;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.navigation-container {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+}
+
+.nav-link {
+  color: #d6d3d1;
+  text-decoration: none;
+  font-size: 16px;
+}
